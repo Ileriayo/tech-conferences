@@ -19,10 +19,10 @@ Tech conferences to attend or to speak at.
 
 ## 🌸 May 2022
 
-| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
+| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                      | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
-| 1   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe)                                        | Virtual and In-person scholarships
-| 2   | Untitled Design Conference 2022        | 7         | F            | Hybrid    | Lagos, Nigeria      | Design                 | [url](https://www.eventbrite.com/e/untitled-design-conference-2022-tickets-246839342117?aff=ebdssbdestsearch)  |
+| 1   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Virtual and In-person scholarships
+| 2   | Untitled Design Conference 2022        | 7         | F            | Hybrid    | Lagos, Nigeria      | Design                 | [url](https://udcom.space/)                                             | Network, Live workshop
 
 ## ☀️ June 2022
 
