@@ -22,7 +22,7 @@ Tech conferences to attend or to speak at.
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
 | 1   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Virtual and In-person scholarships
-
+| 2   | Untitled Design Conference 2022        | 7         | F            | Hybrid    | Lagos, Nigeria      | UI/UX, Developer
 
 ## ☀️ June 2022
 
