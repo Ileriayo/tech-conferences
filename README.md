@@ -9,7 +9,7 @@ Tech conferences to attend or to speak at.
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
 | 1   | Open Source Africa                     | 24 - 26   | P            | Hybrid    | Lagos, Nigeria      | Opensource             | [url](https://festival.oscafrica.org/)                                  | Speaker benefits
-| 2   | Climate Resilience Tech Happy Hour     | 31        | F            | On-site   | Lagos. Nigeria      | 
+| 2   | Climate Resilience Tech Happy Hour     | 31        | F            | On-site   | Lagos. Nigeria      | Fintech, Climate       | [url](https://www.eventbrite.com/e/climate-resilience-tech-happy-hour-tickets-300816950597)
 
 ## ☂️ April 2022
 
