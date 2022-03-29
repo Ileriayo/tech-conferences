@@ -34,9 +34,8 @@ Tech conferences to attend or to speak at.
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
 | 1   | Codeland                               | 06 - 07   | F            | Virtual   | N/A                 | Developer              | [url](https://codelandconf.com/)                                        | $200 speaker benefits
-| 2   | Open Source Summit North America       | 21 - 24   | P            | Hybrid    | Austin, Texas       | Opensource             | [url](https://events.linuxfoundation.org/open-source-summit-north-america) | Travel Funding
-| 3   | IOT                                    | 
-
+| 2   | IOTShow                                | 08 - 10   | F/P          | On-site   | Bengaluru, India    | Internet, Design       | [url](https://www.iotshow.in/)                                          | Network, Live workshops 
+| 3   | Open Source Summit North America       | 21 - 24   | P            | Hybrid    | Austin, Texas       | Opensource             | [url](https://events.linuxfoundation.org/open-source-summit-north-america) | Travel Funding
 
 ## 🍦 July 2022
 
