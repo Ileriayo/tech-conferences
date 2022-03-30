@@ -18,6 +18,7 @@ Tech conferences to attend or to speak at.
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
 | 1   | ReplCon                                | 02        | F            | Virtual   | N/A        | Opensource             | [url](https://hopin.com/events/repl-con-22/registration)                                   | Workshops, Hackathon
+| 2   | HashiTalks Africa                      | 12        | F            | Virtual   | N/A        | Cloud Native, DevOps   | [url](https://sessionize.com/hashitalks-africa)                                   | Learning
 
 
 ## 🌸 May 2022
