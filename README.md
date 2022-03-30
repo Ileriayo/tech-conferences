@@ -29,10 +29,10 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                      | Perks                                       |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
-| 1   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Virtual and In-person scholarships
-| 2   | Untitled Design Conference             | 07        | F            | Hybrid    | Lagos, Nigeria      | Design                 | [url](https://udcom.space/)                                             | Network, Live workshop
-| 3   | DockerCon                              | 09        | F            | Virtual   | N/A                 | Cloud Native           | [url](https://docker.events.cube365.net/dockercon/2022)                 | 
-
+| 1   | Untitled Design Conference             | 07        | F            | Hybrid    | Lagos, Nigeria      | Design                 | [url](https://udcom.space/)                                             | Network, Live workshop
+| 2   | DockerCon                              | 09        | F            | Virtual   | N/A                 | Cloud Native           | [url](https://docker.events.cube365.net/dockercon/2022)                 | 
+| 3   | East Africa Com                        | 10 - 11   | F     |      | Virtual   | N/A                 | Economy, Tech          | [url](https://www.connectingafrica.com/events.asp)                      | Network, Investments
+| 4   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Virtual and In-person scholarships
 
 ## ☀️ June 2022
 
