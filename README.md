@@ -27,12 +27,13 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 
 ## 🌸 May 2022
 
-| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                      | Perks                                       |
+| S/N | Title                                        | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                                                                          | Perks                                       |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
-| 1   | Untitled Design Conference             | 07        | F            | Hybrid    | Lagos, Nigeria      | Design                 | [url](https://udcom.space/)                                             | Network, Live workshop
-| 2   | DockerCon                              | 09        | F            | Virtual   | N/A                 | Cloud Native           | [url](https://docker.events.cube365.net/dockercon/2022)                 | 
-| 3   | East Africa Com                        | 10 - 11   | F            | Virtual   | N/A                 | Economy, Tech          | [url](https://www.connectingafrica.com/events.asp)                      | Network, Investments
-| 4   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Virtual and In-person scholarships
+| 1   | Untitled Design Conference                   | 07        | F            | Hybrid    | Lagos, Nigeria      | Design                 | [url](https://udcom.space/)                                                                                              | Network, Live workshop
+| 2   | DockerCon                                    | 09        | F            | Virtual   | N/A                 | Cloud Native           | [url](https://docker.events.cube365.net/dockercon/2022)                                                                  | 
+| 3   | East Africa Com                              | 10 - 11   | F            | Virtual   | N/A                 | Economy, Tech          | [url](https://www.connectingafrica.com/events.asp)                                                                       | Network, Investments
+| 4   | Drone Technology Conference and Exhibition   | 10 - 12   | P            | On-site   | Lagos, Nigeria      | Aviation, Engineering  | [url](https://www.eventbrite.com/e/drone-technology-conference-and-exhibition-tickets-294508010387?aff=ebdssbdestsearch) | Investments, Network
+| 5   | KubeCon + CloudNativeCon EU            | 16 - 20   | P            | Hybrid    | Valencia, Spain     | Cloud Native           | [url](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe) | Virtual and In-person scholarships
 
 ## ☀️ June 2022
 
