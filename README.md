@@ -2,6 +2,10 @@
 
 Tech conferences to attend or to speak at.
 
+# Contributing
+
+See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CONTRIBUTING.MD)
+
 # 2022
 
 ## ☘️ March 2022
