@@ -19,11 +19,11 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 
 ## ☂️ April 2022
 
-| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
+| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
-| 1   | ReplCon                                | 02        | F            | Virtual   | N/A        | Opensource             | [url](https://hopin.com/events/repl-con-22/registration)                                   | Workshops, Hackathon
-| 2   | HashiTalks Africa                      | 12        | F            | Virtual   | N/A        | Cloud Native, DevOps   | [url](https://sessionize.com/hashitalks-africa)                                   | Learning
-
+| 1   | ReplCon                                | 02        | F            | Virtual   | N/A        | Opensource             | [url](https://hopin.com/events/repl-con-22/registration)                                     | Workshops, Hackathon
+| 2   | HashiTalks Africa                      | 12        | F            | Virtual   | N/A        | Cloud Native, DevOps   | [url](https://sessionize.com/hashitalks-africa)                                              | Learning
+| 3   | Tech Career Fair                       | 29        | F            | Virtual   | N/A        | Tech, Career.          | [url](https://www.eventbrite.com/e/la-tech-career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-146584232385?aff=ebdssbdestsearch)                                                                                                 | Learning, Hiring, Network, Exhibition
 
 ## 🌸 May 2022
 
