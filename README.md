@@ -46,7 +46,9 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
 | 1   | Codeland                               | 06 - 07   | F            | Virtual   | N/A                 | Developer              | [url](https://codelandconf.com/)                                        | $200 speaker benefits
 | 2   | IOTShow                                | 08 - 10   | F/P          | On-site   | Bengaluru, India    | Internet, Design       | [url](https://www.iotshow.in/)                                          | Network, Live workshops 
-| 3   | Open Source Summit North America       | 21 - 24   | P            | Hybrid    | Austin, Texas       | Opensource             | [url](https://events.linuxfoundation.org/open-source-summit-north-america) | Travel Funding
+| 3   | PlatformCon                            | 09 - 10   | F            | Virtual   | N/A                 | DevOps                 | [url](https://platformcon.com/submit-talk)                                          | Network, Live AMAs 
+| 4   | Open Source Summit North America       | 21 - 24   | P            | Hybrid    | Austin, Texas       | Opensource             | [url](https://events.linuxfoundation.org/open-source-summit-north-america) | Travel Funding
+
 
 ## 🍦 July 2022
 
