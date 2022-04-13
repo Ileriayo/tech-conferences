@@ -54,6 +54,8 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
+| 1   | Kubernetes Community Days Africa                             | 08 - 09   | F            | Hybrid    | Lagos, Nigeria      | DevOps, SRE, Cloud Native       | [url](https://community.cncf.io/events/details/cncf-kcd-africa-presents-kubernetes-community-days-africa-2022-lagos/)                                          | Network, Live workshops 
+
 
 
 ## ✏️ August 2022
