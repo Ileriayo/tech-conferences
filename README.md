@@ -60,9 +60,13 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 
 ## ✏️ August 2022
 
-| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
+| S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                                       | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
-| 1   | Open Source Summit Latin America       | 23 - 24   | P            | Virtual    | N/A                 | Opensource             | [url](https://events.linuxfoundation.org/open-source-summit-latin-america) | Travel Funding
+| 1   | Ai4                                    | 16 - 18   | P/F          | On-site   | Las Vegas, USA      | A.I, Machine Learning  | [url](https://ai4.io/usa/)                                                 | Network, Speaker benefits
+| 2   | SwiftConf                              | 17 - 18   | P            | On-site   | Cologne, Germany    | Swift, iOS, macOS      | [url](https://swiftconf.com/#/)                                            | Network, Live workshops, Food and drinks, Party
+| 3   | FutureStack - Brisbane                 | 18        | N/A          | On-site   | Brisbane, Austrailia| Kubernetes, Observablty| [url](https://newrelic.com/events/2022-08-17/anz-futurestack-brisbane)     | Live workshops, Network
+| 4   | Open Source Summit Latin America       | 23 - 24   | P            | Virtual   | N/A                 | Opensource             | [url](https://events.linuxfoundation.org/open-source-summit-latin-america) | Travel Funding
+| 5   | DevOpsDays DFW                         | 24 - 25   | P            | On-site   | Texas, USA          | DevOps, IT             | [url](https://devopsdays.org/events/2022-dallas/registration)              | Network
 
 
 ## 🍎 September 2022
