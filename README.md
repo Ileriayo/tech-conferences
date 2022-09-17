@@ -81,7 +81,7 @@ See [CONTRIBUTING.MD](https://github.com/Ileriayo/tech-conferences/blob/main/CON
 
 | S/N | Title                                  | Date      | Registration | Mode      | Location            | Keyword(s)             | URL                                                                     | Perks                                        |
 | --- | -------------------------------------- | --------- | ------------ |---------- |-------------------- |----------------------- |------------------------------------------------------------------------ | ---------------------------------------------
-
+| 1   | Shifting Left              | 29   | F            | On-site    | Lagos, Nigeria     | DevOps & Cloud Conference            | [url](https://www.joinlocalhost.com/event/localhost-conference-2022) | Learning, Network
 
 ## 🍂 November 2022
 
